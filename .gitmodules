@@ -1,0 +1,12 @@
+[submodule "pulse-values-imitator"]
+	path = pulse-values-imitator
+	url = ./pulse-values-imitator
+[submodule "pulse-monitoring-api"]
+	path = pulse-monitoring-api
+	url = ./pulse-monitoring-api
+[submodule "pulse-values-receiver"]
+	path = pulse-values-receiver
+	url = ./pulse-values-receiver
+[submodule "dynamodb-prototype"]
+	path = dynamodb-prototype
+	url = ./dynamodb-prototype
